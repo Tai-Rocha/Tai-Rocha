@@ -1,4 +1,4 @@
-### Hi there I'm Tainá 👋
+### Hi there I'm Tainá, a biologist interested in patterns of biodiversity distribution in time and space. Also interested in Open science and good workflows to make science👋
 
 <!--
 **Tai-Rocha/Tai-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
