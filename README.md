@@ -1,4 +1,7 @@
-### Hi there I'm Tainá, a biologist interested in patterns of biodiversity distribution in time and space. Also interested in Open science and good workflows to make science👋
+### Hi there I'm Tainá, 
+A brazilian researcher interested in patterns of biodiversity distribution in time and space, focusing on the
+impacts of global change (climate change and land-use and land-cover change). I like Open science and good workflows to make science 👋
+
 
 <!--
 **Tai-Rocha/Tai-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
