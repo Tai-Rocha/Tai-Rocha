@@ -1,5 +1,5 @@
 ### Hi there I'm Tainá,
-<img align="right" width="250" src="https://i.imgur.com/Gn7ESjP.jpg" width="250">
+<img align="center" width="250" src="https://i.imgur.com/Gn7ESjP.jpg" width="350" height="100">
 
 
 A brazilian researcher interested in patterns of biodiversity distribution in time and space, focusing on the
