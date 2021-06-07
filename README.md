@@ -2,7 +2,7 @@
 <img align="right" src="https://i.imgur.com/Gn7ESjP.jpg" width="250" height="150">
 
 
-A Brazilian researcher interested in patterns of biodiversity distribution in time and space, focusing on the impacts of global change (climate change and land-use and land-cover change). I like open science and good workflows to make science.
+A Brazilian researcher interested in patterns of biodiversity distribution in time and space, focusing on the impacts of global change (climate change and land-use and land-cover change). I like open science, good workflows and reproducibility to make science.
 
 
 
