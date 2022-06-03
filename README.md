@@ -2,7 +2,7 @@
 <img align="right" src="https://i.imgur.com/Gn7ESjP.jpg" width="250" height="150">
 
 
-A Brazilian researcher interested in patterns of biodiversity distribution in time and space, focusing on the impacts of global change (climate change and land-use and land-cover change). I like open science, good workflows and reproducibility to make science. My recent interests and work include: 1. Analysis of climate data and land-use and land-cover data under different scenarios of climate change, 2. Biodiversity, 3. Spatial analysis (GIS), 4. Bioinformatics, R programming language, Google Earth Engine etc.
+A Brazilian researcher interested in patterns of biodiversity distribution in time and space, focusing on the impacts of global change (climate change and land-use and land-cover change). I like open science, good workflows, and reproducibility to make science. My recent interests and work include 1. Analysis of climate data and land-use and land-cover data under different scenarios of climate change, 2. Biodiversity, 3. Spatial analysis (GIS), 4. Bioinformatics, R programming language, Google Earth Engine, etc.
 
 
 
