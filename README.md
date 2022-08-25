@@ -5,9 +5,13 @@ A Brazilian researcher and data scientist working on patterns of biodiversity, f
 
 I use open-source tools and platforms. I am interested in good practices in open science (open databases, open software), good workflows, reproducibility, and FAIR principles.
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tai-Rocha&theme=dracula" alt="claudiaanjos" height="165" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Rocha&layout=compact&langs_count=16&theme=dracula&hide=Jupyter%20Notebook,Shell,Handlebars" alt="Tai-Rocha" height="165" width="420"/>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tai-Rocha&theme=dracula" alt="claudiaanjos" height="165" width="500">
+    
+</p>
+
+<p align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Rocha&layout=compact&langs_count=16&theme=dracula&hide=Jupyter%20Notebook,Shell,Handlebars" alt="Tai-Rocha" height="165" width="420">
 </p>
 <br>
 <br>
