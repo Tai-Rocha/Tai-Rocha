@@ -15,5 +15,5 @@ I use open-source tools and platforms. I am interested in good practices in open
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/tai-rocha/)
 [![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=blog)](https://tainaweb-en.netlify.app/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Tai_Rocha_)
-[![Orcid](https://img.shields.io/badge/Orcid-green.svg?style=for-the-badge&logo=orcid)](https://tainaweb-en.netlify.app/)
+[![Orcid](https://img.shields.io/badge/Orcid-green.svg?style=for-the-badge&logo=orcid)](https://orcid.org/0000-0001-6874-2447)
 
