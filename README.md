@@ -5,33 +5,15 @@ A Brazilian researcher and data scientist working on patterns of biodiversity, f
 
 I use open-source tools and platforms. I am interested in good practices in open science (open databases, open software), good workflows, reproducibility, and FAIR principles.
 
+<div>
+  <a href="https://github.com/Tai-Rocha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tai-Rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Rocha&layout=compact&langs_count=16&theme=dark"/>
+<div>
+  
+### You can also find me at:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/tai-rocha/)
+[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=blog)](https://tainaweb-en.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Tai_Rocha_)
+[![Orcid](https://img.shields.io/badge/Orcid-green.svg?style=for-the-badge&logo=orcid)](https://tainaweb-en.netlify.app/)
 
-<!--
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tai-Rocha&theme=dracula" alt="claudiaanjos" height="300" width="100">
-</p>
-
-<p align="right">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tai-Rocha&layout=compact&langs_count=16&theme=dracula&hide=Jupyter%20Notebook,Shell,Handlebars" alt="Tai-Rocha" height="300" width="50">
-</p>
-<br>
-<br>
-
-
-
-
-
-<!--
-**Tai-Rocha/Tai-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
