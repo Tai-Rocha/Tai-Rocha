@@ -1,4 +1,4 @@
-### Hi there I'm Tainá :octocat:
+<p align="center">  Hi there I'm Tainá :octocat: </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tai-Rocha" alt="Tai-Rocha" /> </p>
 
 A Brazilian researcher and data scientist working on patterns of biodiversity, focusing on the impacts of global change (climate change and land-use and land-cover change). My recent interests and work include 1. Analysis of climate data and land-use and land-cover data under different scenarios of climate change, 2. Analysis of Biodiversity data, 3. Predictive models of species niche and potential distribution, 4. Spatial analysis (GIS), 5. Bioinformatics, R programming language, Google Earth Engine etc.
